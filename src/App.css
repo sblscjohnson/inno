@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
 .App {
   text-align: center;
-  background-color: rgba(241, 50, 50,.85);
+  background-color: black;
   height: 100vh;
-  font-family: Verdana, Geneva, Tahoma, sans-serif 
+  font-family: 'Inconsolata', monospace;
+
 }
 
 .App-header {
@@ -13,6 +16,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgba(195, 20, 20);
 }
 

@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './Navbar';
 
 
-let Header = () => {
+const Header = () => {
   return (
     <div className='App-header'>
       
